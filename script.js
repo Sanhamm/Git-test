@@ -1,1 +1,1 @@
-// this is a script file
+console.log(Hello from script.js);
